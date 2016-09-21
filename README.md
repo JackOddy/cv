@@ -1,4 +1,4 @@
-## Jack Oddy
+# Jack Oddy
 
  [Education and Projects](#education) |> [Skills](#skills) |> [Previous Work Experience](#experience) |> [Interests](#interests)
 
