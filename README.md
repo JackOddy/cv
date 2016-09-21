@@ -64,6 +64,6 @@ Project title  | Description  									| Development timeframe | Technologies | 
 Responsibilities included customer service, day-to-day running of the business, handling deliveries and making orders, management and training of junior & senior staff
 
 ## <a name="interests">Interests</a>
-- Volunteering - I am a volunteer coach at Code First: Girls and feel passionate about diversity in tech
+- Volunteering - I am a volunteer coach at [Code First: Girls](http://www.codefirstgirls.org.uk/) and feel passionate about diversity in tech
 - Traveling and experiencing new culture, food and languages
 - Gaming - Leader of a small group of gamers, co-created an automated scheduling system and organised a dedicated server for voice communication.
