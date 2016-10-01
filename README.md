@@ -1,6 +1,6 @@
 # Jack Oddy
 
- [Education and Projects](#education) |> [Skills](#skills) |> [Previous Work Experience](#experience) |> [Interests](#interests)
+ [Education and Projects](#education) |> [Skills](#skills) |> [Previous Work Experience](#experience) |> [Interests](#interests) |> [Email](mailto:jackoddy91@gmail.com) |> [LinkedIn](https://uk.linkedin.com/in/jackoddy)
 
 After reading BA Geography and Chinese at the University of Nottingham I entered into a career in hospitality - discovering myself to be a natural leader and an excellent communicator with unmatched barista skills. I've always been interested in tech but had always thought after my degree choice this career had been placed out of my reach. After stumbling across a blog about coding bootcamps I realised this was not the case and enrolled in Makers Academy straight away! Makers Academy is Europe's leading Web Developer bootcamp - they teach students how to work and how to learn.
 
