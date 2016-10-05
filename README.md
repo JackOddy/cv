@@ -47,7 +47,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 ------------- | ------------------------------	| ------------- |------------- |---------
 [Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz/)| A general knowledge quiz game that connects multiple players | 10 days | Elixir, Phoenix Framework, React, PostgreSQL| ExUnit, Enzyme, Sinon, Mocha, Chai
 [spiAPI](https://github.com/spyAPI/spyAPI) | A programmable JSON API for developers| 3 days | Ruby, Ruby on Rails Framework, PostgreSQL | RSpec, Capybara
-
+[Xenia](https://github.com/jackoddy/xenia) | A clone of AirBnB written in Node.js| 4 days | JavaScript, Node.js, Express, Pug, rethinkDB | Mocha, Chai, Zombie
 
 
 #### University of Nottingham (2009 to 2012)
